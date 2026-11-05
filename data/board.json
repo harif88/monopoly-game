@@ -1,0 +1,54 @@
+[
+  {
+    "name": "GO",
+    "type": "go"
+  },
+  {
+    "name": "The Burvale",
+    "price": 1,
+    "colour": "Brown",
+    "type": "property"
+  },
+  {
+    "name": "Fast Kebabs",
+    "price": 1,
+    "colour": "Brown",
+    "type": "property"
+  },
+  {
+    "name": "The Grand Tofu",
+    "price": 2,
+    "colour": "Red",
+    "type": "property"
+  },
+  {
+    "name": "Lanzhou Beef Noodle",
+    "price": 2,
+    "colour": "Red",
+    "type": "property"
+  },
+  {
+    "name": "Betty's Burgers",
+    "price": 3,
+    "colour": "Green",
+    "type": "property"
+  },
+  {
+    "name": "YOMG",
+    "price": 3,
+    "colour": "Green",
+    "type": "property"
+  },
+  {
+    "name": "Gami Chicken",
+    "price": 4,
+    "colour": "Blue",
+    "type": "property"
+  },
+  {
+    "name": "Massizim",
+    "price": 4,
+    "colour": "Blue",
+    "type": "property"
+  }
+]
